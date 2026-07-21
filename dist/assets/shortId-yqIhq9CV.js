@@ -1,0 +1,1 @@
+function e(e,t=6){return e?`#`+String(e).replace(/-/g,``).slice(0,t).toUpperCase():`—`}export{e as t};
